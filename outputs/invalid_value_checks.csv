@@ -1,0 +1,12 @@
+dataset,column,invalid_values,invalid_count
+orders,quantity_outside_1_4,,0
+orders,discount_outside_0_70pct,,0
+orders,delivery_days_outside_1_11,,0
+orders,returned_not_binary,,0
+orders,rating_outside_1_5_non_null,,0
+support_tickets,resolution_hours_negative,,0
+support_tickets,sentiment_outside_-1_1,,0
+support_tickets,reopened_not_binary,,0
+churn_labels,target_not_binary,,0
+intervention_history,none_campaign_with_nonzero_cost,,404
+web_events_snapshot,negative_activity_counts,,0

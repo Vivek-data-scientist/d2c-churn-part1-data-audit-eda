@@ -1,0 +1,8 @@
+dataset,rows,columns,customer_ids,duplicate_rows,missing_cells,unknown_customer_ids,date_min,date_max
+customers,2400,9,2400,0,1787,0,2024-01-01,2025-09-15
+orders,10009,10,2400,0,80,0,2024-01-09,2025-11-29
+support_tickets,1921,8,1247,0,0,0,2024-01-13,2025-09-30
+web_events_snapshot,2400,10,2400,0,0,0,2025-09-30,2025-09-30
+churn_labels,2400,4,2400,0,0,0,2025-09-30,2025-09-30
+intervention_history,2400,5,2400,0,0,0,2025-09-30,2025-09-30
+rfm_modeling_snapshot,2400,29,2400,0,1386,0,2025-09-30,2025-09-30

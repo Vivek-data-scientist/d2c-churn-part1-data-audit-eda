@@ -1,0 +1,5 @@
+dataset,column,missing_count,missing_rate
+customers,loyalty_tier,1386,0.5775
+rfm_modeling_snapshot,loyalty_tier,1386,0.5775
+customers,skin_type,401,0.16708333333333333
+orders,rating,80,0.007992806474173244

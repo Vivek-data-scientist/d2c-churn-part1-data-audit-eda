@@ -1,0 +1,7 @@
+dataset,rows,unique_customer_ids,customers_missing_from_file,unknown_customer_id_rows
+orders,10009,2400,0,0
+support_tickets,1921,1247,1153,0
+web_events_snapshot,2400,2400,0,0
+churn_labels,2400,2400,0,0
+intervention_history,2400,2400,0,0
+rfm_modeling_snapshot,2400,2400,0,0

@@ -1,0 +1,4 @@
+manual_priority_bucket,customers,churn_rate
+high,1163,0.7472055030094583
+medium,749,0.27903871829105475
+low,488,0.10040983606557377

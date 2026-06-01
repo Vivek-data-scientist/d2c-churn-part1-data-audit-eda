@@ -1,0 +1,7 @@
+hypothesis,evidence_table,evidence,business_action
+Stale order recency is the clearest churn warning sign.,order_recency_churn.csv,"Customers in the 181+ day recency band churn at 91.4%, while customers in the 0-30 day band churn at 11.7%.",Use replenishment/win-back journeys before sending expensive discount offers.
+Recent web/app inactivity is a strong disengagement signal.,web_last_visit_churn.csv,"The 31+ days-since-visit band churns at 88.4%, versus 16.1% for customers seen within 0-3 days.",Trigger low-cost reactivation messages before paid incentives.
+Support tickets need issue-level triage rather than one generic offer.,support_ticket_churn.csv / support_issue_churn.csv,One-ticket customers churn at 50.3%; the highest ticket-level churn rate is 44.8% for `product_reaction`.,Review complaint type and sentiment before choosing service recovery versus marketing outreach.
+Return-heavy customers need product or fulfillment investigation.,return_rate_churn.csv,Customers with 50%+ return rate churn at 75.0%.,"Audit product fit, delivery, and quality issues before offering discounts."
+Campaign history reflects risk state and needs causal testing.,campaign_churn.csv,The highest campaign-history churn rate is 51.0% for `new_launch`.,Use holdouts; do not infer campaign lift from observational assignment.
+Loyalty status is associated with different churn levels.,profile_churn_loyalty.csv,The highest loyalty-status churn rate is 48.8% for `Silver`.,Separate loyalty recognition from acquisition/reactivation messaging.
